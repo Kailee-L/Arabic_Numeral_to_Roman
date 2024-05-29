@@ -1,0 +1,28 @@
+body{
+ background-color:#B8e2F2;
+color:#FFFFFF;
+font-family: sans-serif;
+}
+#together{
+  display:block;
+  margin:auto;
+  border: 5px #ffffff solid;
+  padding: 20px;
+  background-color:#66c0e5;
+}
+#align{
+  display:block;
+  margin:auto;
+  text-align:center;
+  
+}
+#output{
+  padding:10px;
+  text-align:center;
+  margin:auto;
+  font-weight:200;
+}
+#center{
+  display: flex;
+  justify-content: center;
+}
